@@ -1,7 +1,7 @@
-import urllib2
+from bs4 import BeautifulSoup
 from pandas import DataFrame
 import re
-from bs4 import BeautifulSoup
+import urllib2
 import utility
 
 
