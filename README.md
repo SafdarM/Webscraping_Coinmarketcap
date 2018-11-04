@@ -1,5 +1,5 @@
-# Webscrapping_Coinmarketcap
-This public repository performs web scrapping on the worlds largest "cryptocurrency-trend-analyser" website, www.coinmarketcap.com.
+# Webscraping_Coinmarketcap
+This public repository performs web scraping on the worlds largest "cryptocurrency-trend-analyser" website, www.coinmarketcap.com.
 
 # About Coinmarketcap?
 CoinMarketCap is a website that tracks most of the alternative coins that has hit the market as well as Bitcoins and shows users the current value in dollars and Bitcoins for each coin. Also, featues including top gainers/top losers over a 1hr/24hr/7d timeline can be analysed. Currentlt there exists over 2000 cryptocurrencies on CMC portal.
@@ -7,8 +7,8 @@ CoinMarketCap is a website that tracks most of the alternative coins that has hi
 # What does this repo has to do with CMC?
 Computer science is all about trends, analysis, prediction and ofcourse logic. To perform such analysis develops seeks for data. The world largest data storage mechanism is the World Wide Web! The Internet. Unfortunate for the developers, this kind of data is not program ready. The Internet data is not relational, and hence there is a need to pre process the raw and ugly data into ready-to-use format.
 
-# Webscrapping_Coinmarketcap - Crutches for prediction algorithms:
-Webscrapping_Coinmarketcap is a simple web scrapper which fetches information not only about top gainers/top losers over a 1hr/24hr/7d timeline, but also about thousands of currently trading altcoins. Using Webscrapping_Coinmarketcap you can get information about changes in:
+# Webscraping_Coinmarketcap - Crutches for prediction algorithms:
+Webscraping_Coinmarketcap is a simple web scraper which fetches information not only about top gainers/top losers over a 1hr/24hr/7d timeline, but also about thousands of currently trading altcoins. Using Webscraping_Coinmarketcap you can get information about changes in:
 - Price
 - Volume
 - Percentage
